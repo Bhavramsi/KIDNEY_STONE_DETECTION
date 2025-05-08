@@ -1,14 +1,13 @@
-Based on your detailed project report, here's a professional and informative `README.md` file for your GitHub repository:
 
 ---
 
-# 🧠 Kidney Stone Detection Using Image Segmentation (YOLOv8)
+# Kidney Stone Detection Using Image Segmentation (YOLOv8)
 
 This repository contains the implementation of an **image segmentation model** based on **YOLOv8** for accurate and efficient detection of kidney stones from CT scan images. The project uses annotated datasets, deep learning techniques, and a graphical interface for seamless integration into diagnostic workflows.
 
 ---
 
-## 📝 Table of Contents
+## Table of Contents
 
 * [Overview](#overview)
 * [Problem Statement](#problem-statement)
@@ -24,7 +23,7 @@ This repository contains the implementation of an **image segmentation model** b
 
 ---
 
-## 🔍 Overview
+##  Overview
 
 Over **115 million** people globally suffer from kidney stones. Early and accurate detection through imaging can prevent complications like renal failure. This project applies **deep learning (YOLOv8)** to CT scan images, aiming to automate and improve kidney stone detection using **instance segmentation** techniques.
 
