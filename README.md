@@ -29,13 +29,13 @@ Over **115 million** people globally suffer from kidney stones. Early and accura
 
 ---
 
-## ❗ Problem Statement
+##  Problem Statement
 
 Manual identification of kidney stones in CT scans is time-consuming and prone to human error. The goal is to develop an automated tool using deep learning that ensures **high precision**, **fast diagnosis**, and **detailed localization** of kidney stones.
 
 ---
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 * Detect and segment kidney stones from CT scans using YOLOv8.
 * Build a GUI for uploading images and displaying detection results.
@@ -43,7 +43,7 @@ Manual identification of kidney stones in CT scans is time-consuming and prone t
 
 ---
 
-## 🧬 Methodology
+## Methodology
 
 1. **Dataset Preparation**:
 
@@ -69,7 +69,7 @@ Manual identification of kidney stones in CT scans is time-consuming and prone t
 
 ---
 
-## 📊 Model Performance
+##  Model Performance
 
 | Metric    | Value  |
 | --------- | ------ |
@@ -92,7 +92,7 @@ YOLOv8 significantly outperformed previous architectures such as YOLOv5 and YOLO
 
 ---
 
-## 📸 Results
+##  Results
 
 * Kidney stones successfully detected and segmented in test/validation CT images.
 * GUI allows uploading new CT scans and returns annotated outputs with bounding boxes.
@@ -103,7 +103,7 @@ YOLOv8 significantly outperformed previous architectures such as YOLOv5 and YOLO
 
 ---
 
-## 🩺 Applications
+##  Applications
 
 * **Clinical Diagnosis**: Assists radiologists with rapid, accurate detection.
 * **Treatment Planning**: Identifies size, location, and count of stones.
@@ -111,7 +111,7 @@ YOLOv8 significantly outperformed previous architectures such as YOLOv5 and YOLO
 
 ---
 
-## ⚠️ Limitations & Future Work
+## Limitations & Future Work
 
 ### Limitations:
 
@@ -126,7 +126,7 @@ YOLOv8 significantly outperformed previous architectures such as YOLOv5 and YOLO
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone the repository:
 
@@ -155,7 +155,7 @@ YOLOv8 significantly outperformed previous architectures such as YOLOv5 and YOLO
 
 ---
 
-## 📚 References
+## References
 
 * [YOLOv8 - Ultralytics](https://docs.ultralytics.com/)
 * [Roboflow](https://app.roboflow.com/)
@@ -164,4 +164,3 @@ YOLOv8 significantly outperformed previous architectures such as YOLOv5 and YOLO
 
 ---
 
-Let me know if you want a logo/banner for the repo or a `requirements.txt` to go with this.
